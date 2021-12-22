@@ -14,3 +14,13 @@
 #####################################################################
 
 
+print("it works well")
+
+def main():
+    check_time()
+    check_os()
+    check_user()
+    exit()
+
+
+main()
