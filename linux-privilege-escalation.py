@@ -14,8 +14,6 @@
 #####################################################################
 
 
-print("it works well")
-
 def main():
     check_time()
     check_os()
@@ -23,4 +21,9 @@ def main():
     exit()
 
 
+
 main()
+
+
+
+print("it works well")
