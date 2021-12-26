@@ -24,6 +24,4 @@ def main():
 
 main()
 
-
-
 print("it works well")
