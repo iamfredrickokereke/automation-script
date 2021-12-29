@@ -15,6 +15,7 @@
 
 
 def main():
+    clear
     check_time()
     check_os()
     check_user()
