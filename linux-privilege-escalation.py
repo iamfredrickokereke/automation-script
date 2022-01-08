@@ -1,6 +1,7 @@
 
 #!/usr/bin/env/python3
 
+# tHIS SCRIPT IS FOR LINUX
 #####################################################################
 #																	#
 #		A simple automation tool for Linux Privilege Escalation	#
