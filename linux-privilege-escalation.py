@@ -7,7 +7,7 @@
 #																	#
 # 		Features:												#
 #				* OS, Release, and Kernel information gathering     #
-#				* Root service check                                #
+#				* Root service checkS                                #
 #				* SUID-GUID check ('can this user sudo anything?')  #
 #				* Check for SUID-GUID abusable binaries             #
 #																	#
